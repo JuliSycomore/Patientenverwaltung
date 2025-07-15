@@ -1,0 +1,605 @@
+[
+  {
+    "Nummer": "01100",
+    "Titel": "Unvorhergesehene Inanspruchnahme",
+    "Leistung": "Unvorhergesehene Inanspruchnahme des Vertragsarztes durch einen Patienten zwischen 19:00 und 22:00 Uhr, an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 07:00 und 19:00 Uhr.",
+    "Punkte": "196",
+    "Anmerkung": "Ausschluss: 01101, 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01413, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373 und 37306. Am Behandlungstag nicht neben 01955 und 01956."
+  },
+  {
+    "Nummer": "01101",
+    "Titel": "Unvorhergesehene Inanspruchnahme nachts",
+    "Leistung": "Unvorhergesehene Inanspruchnahme des Vertragsarztes durch einen Patienten zwischen 22:00 und 07:00 Uhr, an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 19:00 und 07:00 Uhr.",
+    "Punkte": "313",
+    "Anmerkung": "Ausschluss: 01100, 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01413, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373 und 37306. Am Behandlungstag nicht neben 01955 und 01956."
+  },
+  {
+    "Nummer": "01102",
+    "Titel": "Inanspruchnahme an Samstagen",
+    "Leistung": "Inanspruchnahme des Vertragsarztes an Samstagen zwischen 07:00 und 19:00 Uhr.",
+    "Punkte": "101",
+    "Anmerkung": "Ausschluss: 01100, 01101, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01412, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373, 04564 bis 04566, 04572, 04573, 13610 bis 13612, 13620 bis 13622 und 37306. Am Behandlungstag nicht neben 01955 und 01956."
+  },
+  {
+    "Nummer": "01410",
+    "Titel": "Besuch eines Kranken",
+    "Leistung": "Besuch eines Kranken, wegen der Erkrankung ausgeführt.",
+    "Punkte": "212",
+    "Anmerkung": "Ausschluss: 01100 bis 01102, 01411 bis 01415, 01418, 01721 und 05230."
+  },
+  {
+    "Nummer": "01411",
+    "Titel": "Dringender Besuch I",
+    "Leistung": "Dringender Besuch wegen der Erkrankung, unverzüglich nach Bestellung ausgeführt. Zwischen 19:00 und 22:00 Uhr, oder an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 07:00 und 19:00 Uhr.",
+    "Punkte": "469",
+    "Anmerkung": "Ausschluss: 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410, 01412 bis 01415, 01418, 01721 und 05230."
+  },
+  {
+    "Nummer": "01412",
+    "Titel": "Dringender Besuch / Visite",
+    "Leistung": "Dringender Besuch / dringende Visite auf der Belegstation (...). Dringender Besuch zwischen 22:00 und 07:00 Uhr, oder an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 19:00 und 07:00 Uhr, oder bei Unterbrechen der Sprechstundentätigkeit.",
+    "Punkte": "626",
+    "Anmerkung": "Ausschluss: 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410, 01411, 01413 bis 01415, 01418, 01721 und 05230."
+  },
+  {
+    "Nummer": "01413",
+    "Titel": "Besuch eines weiteren Kranken",
+    "Leistung": "Besuch eines weiteren Kranken in derselben sozialen Gemeinschaft (z.B. Familie) und/oder in beschützenden Wohnheimen bzw. Einrichtungen (...).",
+    "Punkte": "106",
+    "Anmerkung": "Ausschluss: 01100, 01101, 01410 bis 01412, 01414, 01415, 01418, 01721 und 05230."
+  },
+  {
+    "Nummer": "01415",
+    "Titel": "Dringender Besuch in Wohnheimen",
+    "Leistung": "Dringender Besuch eines Patienten in beschützenden Wohnheimen bzw. Einrichtungen (...), noch am Tag der Bestellung ausgeführt.",
+    "Punkte": "546",
+    "Anmerkung": "Ausschluss: 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01414, 01418, 01721 und 05230."
+  },
+  {
+    "Nummer": "01416",
+    "Titel": "Begleitung zur stationären Behandlung",
+    "Leistung": "Begleitung eines Kranken durch den behandelnden Arzt beim Transport zur unmittelbar notwendigen stationären Behandlung, je vollendete 10 Minuten.",
+    "Punkte": "117",
+    "Anmerkung": "Nicht neben 01440."
+  },
+  {
+    "Nummer": "01422",
+    "Titel": "Erstverordnung psychiatrische Krankenpflege",
+    "Leistung": "Erstverordnung von Behandlungsmaßnahmen zur psychiatrischen häuslichen Krankenpflege (...). Einmal im Behandlungsfall.",
+    "Punkte": "149",
+    "Anmerkung": "Am Behandlungstag nicht neben 01424."
+  },
+  {
+    "Nummer": "01424",
+    "Titel": "Folgeverordnung psychiatrische Krankenpflege",
+    "Leistung": "Folgeverordnung von Behandlungsmaßnahmen zur psychiatrischen häuslichen Krankenpflege (...). Zweimal im Behandlungsfall.",
+    "Punkte": "154",
+    "Anmerkung": "Am Behandlungstag nicht neben 01422."
+  },
+  {
+    "Nummer": "01430",
+    "Titel": "Verwaltungskomplex",
+    "Leistung": "Ausstellung von Wiederholungsrezepten ohne persönlichen Arzt-Patienten-Kontakt und/oder Ausstellung von Überweisungsscheinen ohne persönlichen Arzt-Patienten-Kontakt und/oder Übermittlung von Befunden oder ärztlichen Anordnungen an den Patienten im Auftrag des Arztes durch das Praxispersonal.",
+    "Punkte": "12",
+    "Anmerkung": "Mit Ausnahme der GOP 01431 im Arztfall nicht neben anderen GOP und nicht mehrfach an demselben Tag. Nicht berechnungsfähig, wenn im selben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung kommt."
+  },
+  {
+    "Nummer": "01431",
+    "Titel": "Zusatzpauschale elektronische Patientenakte",
+    "Leistung": "Zusatzpauschale zu den GOP 01430, 01435 und 01820 für ärztliche Tätigkeiten im Zusammenhang mit der elektronischen Patientenakte. Höchstens 4-mal im Arztfall berechnungsfähig.",
+    "Punkte": "3",
+    "Anmerkung": "Mit Ausnahme der GOP 01430, 01435 und 01820 im Arztfall nicht neben anderen GOP und nicht mehrfach an demselben Tag. Nicht berechnungsfähig, wenn im selben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung kommt."
+  },
+  {
+    "Nummer": "01435",
+    "Titel": "Haus-/Fachärztliche Bereitschaftspauschale",
+    "Leistung": "Telefonische Beratung des Patienten (...) bei Kontaktaufnahme durch den Patienten und/oder Anderer mittelbarer Arzt-Patienten-Kontakt (...).",
+    "Punkte": "88",
+    "Anmerkung": "Nicht im organisierten Not(-fall)dienst berechnungsfähig. Nicht berechnungsfähig, wenn eine Versicherten-, Grund- und/oder Konsiliarpauschale abgerechnet wird. Mit Ausnahme von 01431, 40128 und 40129 nicht neben anderen GOP. Nicht neben 01438."
+  },
+  {
+    "Nummer": "01442",
+    "Titel": "Videofallkonferenz mit Pflegekraft I",
+    "Leistung": "Videofallkonferenz mit der/den an der Versorgung des Patienten beteiligten Pflege(fach)kraft/Pflege(fach)kräften (...). Höchstens dreimal im Krankheitsfall.",
+    "Punkte": "86",
+    "Anmerkung": "Nicht neben 01443, 01758, 30210, 30706, 30948, 37120, 37320, 37400, 37720 und 37804."
+  },
+  {
+    "Nummer": "01443",
+    "Titel": "Videofallkonferenz mit Pflegekraft II",
+    "Leistung": "Videofallkonferenz mit den an der Versorgung des Patienten beteiligten Pflegefachkräften bzw. Pflegekräften. Höchstens dreimal im Krankheitsfall.",
+    "Punkte": "86",
+    "Anmerkung": "Nicht neben 01442, 01758, 30210, 30706, 30948, 37120, 37320, 37400, 37720 und 37804."
+  },
+  {
+    "Nummer": "01444",
+    "Titel": "Zuschlag Authentifizierung Videosprechstunde",
+    "Leistung": "Zuschlag (...) für die Authentifizierung eines unbekannten Patienten (...) im Rahmen einer Videosprechstunde (...). Einmal im Behandlungsfall.",
+    "Punkte": "10",
+    "Anmerkung": "Nicht explizit aufgeführt."
+  },
+  {
+    "Nummer": "01450",
+    "Titel": "Zuschlag Videosprechstunde/Videofallkonferenz",
+    "Leistung": "Zuschlag (...) für die Betreuung eines Patienten im Rahmen einer Videosprechstunde oder für eine Videofallkonferenz (...) oder für ein Videokonsilium (...). Je Arzt-Patienten-Kontakt/Videofallkonferenz/Videokonsilium.",
+    "Punkte": "40",
+    "Anmerkung": "Nicht explizit aufgeführt, aber an spezifische Zuschlags-Konstellationen und Höchstwerte gebunden."
+  },
+  {
+    "Nummer": "01452",
+    "Titel": "Zuschlag strukturierte Versorgung",
+    "Leistung": "Zuschlag (...) für die Gewährleistung einer strukturierten Versorgung gemäß § 10 der Anlage 31c zum BMV-Ä. Einmal im Behandlungsfall.",
+    "Punkte": "30",
+    "Anmerkung": "Nicht explizit aufgeführt."
+  },
+  {
+    "Nummer": "01471",
+    "Titel": "Zusatzpauschale DiGA somnio",
+    "Leistung": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) somnio (...). Einmal im Behandlungsfall.",
+    "Punkte": "64",
+    "Anmerkung": "Im Behandlungsfall nicht neben 30780."
+  },
+  {
+    "Nummer": "01479",
+    "Titel": "Zusatzpauschale DiGA elona therapy Depression",
+    "Leistung": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) elona therapy Depression (...). Einmal im Behandlungsfall, höchstens zweimal im Krankheitsfall.",
+    "Punkte": "64",
+    "Anmerkung": "Nicht explizit aufgeführt."
+  },
+  {
+    "Nummer": "23210",
+    "Titel": "Grundpauschale Psychotherapeuten (bis 5 J.)",
+    "Leistung": "Grundpauschale für ärztliche und Psychologische Psychotherapeuten sowie Fachpsychotherapeuten für Erwachsene für Versicherte bis zum vollendeten 5. Lebensjahr",
+    "Punkte": "60",
+    "Anmerkung": "Am Behandlungstag: 01436, 23214. Im Behandlungsfall: 01600, 01601."
+  },
+  {
+    "Nummer": "23211",
+    "Titel": "Grundpauschale Psychotherapeuten (6-59 J.)",
+    "Leistung": "Grundpauschale für ärztliche und Psychologische Psychotherapeuten sowie Fachpsychotherapeuten für Erwachsene für Versicherte ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+    "Punkte": "79",
+    "Anmerkung": "Am Behandlungstag: 01436, 23214. Im Behandlungsfall: 01600, 01601."
+  },
+  {
+    "Nummer": "23212",
+    "Titel": "Grundpauschale Psychotherapeuten (ab 60 J.)",
+    "Leistung": "Grundpauschale für ärztliche und Psychologische Psychotherapeuten sowie Fachpsychotherapeuten für Erwachsene für Versicherte ab Beginn des 60. Lebensjahres",
+    "Punkte": "73",
+    "Anmerkung": "Am Behandlungstag: 01436, 23214. Im Behandlungsfall: 01600, 01601."
+  },
+  {
+    "Nummer": "23214",
+    "Titel": "Grundpauschale Kinder- und Jugendlichenpsychotherapeuten",
+    "Leistung": "Grundpauschale für Kinder- und Jugendlichenpsychotherapeuten, Fachpsychotherapeuten für Kinder und Jugendliche sowie ärztliche und Psychologische Psychotherapeuten",
+    "Punkte": "293",
+    "Anmerkung": "Am Behandlungstag: 23210 bis 23212."
+  },
+  {
+    "Nummer": "23215",
+    "Titel": "Hygienezuschlag",
+    "Leistung": "Hygienezuschlag zu den GOP 23210 bis 23212 und 23214",
+    "Punkte": "2",
+    "Anmerkung": "Nicht vorhanden"
+  },
+  {
+    "Nummer": "23216",
+    "Titel": "Zuschlag psychotherapeutische Grundversorgung",
+    "Leistung": "Zuschlag zu den GOP 23210 bis 23212 und 23214. Einmal im Behandlungsfall.",
+    "Punkte": "170",
+    "Anmerkung": "Nicht vorhanden"
+  },
+  {
+    "Nummer": "23218",
+    "Titel": "Zuschlag zu GOP 23216",
+    "Leistung": "Zuschlag zu der GOP 23216",
+    "Punkte": "46",
+    "Anmerkung": "Nicht vorhanden"
+  },
+  {
+    "Nummer": "23228",
+    "Titel": "Zuschlag TSS-Vermittlung/Hausarztvermittlung (Erwachsene)",
+    "Leistung": "Zuschlag zu den GOP 23210 bis 23212 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt",
+    "Punkte": null,
+    "Anmerkung": "Im Arztgruppenfall: 01710."
+  },
+  {
+    "Nummer": "23229",
+    "Titel": "Zuschlag TSS-Vermittlung/Hausarztvermittlung (KJP)",
+    "Leistung": "Zuschlag zu der GOP 23214 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt",
+    "Punkte": "154",
+    "Anmerkung": "Im Arztgruppenfall: 01710."
+  },
+  {
+    "Nummer": "23220",
+    "Titel": "Psychotherapeutisches Gespräch",
+    "Leistung": "Psychotherapeutisches Gespräch als Einzelbehandlung. Dauer mindestens 10 Minuten. Je vollendete 10 Minuten, höchstens 15-mal im Behandlungsfall.",
+    "Punkte": "154",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35173 bis 35179 und die Gebührenordnungspositionen des Abschnitts 35.2."
+  },
+  {
+    "Nummer": "35100",
+    "Titel": "Differentialdiagnostische Klärung",
+    "Leistung": "Differentialdiagnostische Klärung psychosomatischer Krankheitszustände. Dauer mindestens 15 Minuten.",
+    "Punkte": "193",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 08521."
+  },
+  {
+    "Nummer": "35110",
+    "Titel": "Verbale Intervention",
+    "Leistung": "Verbale Intervention bei psychosomatischen Krankheitszuständen. Dauer mindestens 15 Minuten.",
+    "Punkte": "193",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 08521."
+  },
+  {
+    "Nummer": "35111",
+    "Titel": "Übende Interventionen (Einzel)",
+    "Leistung": "Übende Interventionen (Autogenes Training, Relaxationsbehandlung nach Jacobson) als Einzelbehandlung. Dauer mindestens 25 Minuten.",
+    "Punkte": "335",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35533-35539. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35112",
+    "Titel": "Übende Interventionen (Gruppe Erwachsene)",
+    "Leistung": "Übende Interventionen (Autogenes Training, Relaxationsbehandlung nach Jacobson) als Gruppenbehandlung bei Erwachsenen. Dauer mindestens 50 Minuten.",
+    "Punkte": "90",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35533-35539. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35113",
+    "Titel": "Übende Interventionen (Gruppe KJP)",
+    "Leistung": "Übende Interventionen (Autogenes Training, Relaxationsbehandlung nach Jacobson) als Gruppenbehandlung bei Kindern und Jugendlichen. Dauer mindestens 30 Minuten.",
+    "Punkte": "128",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35533-35539. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35120",
+    "Titel": "Hypnose",
+    "Leistung": "Behandlung einer Einzelperson durch Hypnose. Dauer mindestens 15 Minuten.",
+    "Punkte": "205",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35533-35539. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35130",
+    "Titel": "Bericht Gutachter (KZT)",
+    "Leistung": "Bericht oder Ergänzungsbericht an den Gutachter (Kurzzeittherapie 1 oder 2)",
+    "Punkte": "296",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35131. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35131",
+    "Titel": "Bericht Gutachter (LZT)",
+    "Leistung": "Bericht oder Ergänzungsbericht an den Gutachter (Langzeittherapie)",
+    "Punkte": "591",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35130. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35140",
+    "Titel": "Biographische Anamnese",
+    "Leistung": "Erstellen der biographischen Anamnese, Bestimmung des psychodynamischen, system- und ressourcenanalytischen oder verhaltensanalytischen Status, Dauer mindestens 50 Minuten.",
+    "Punkte": "707",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitte 35.2.1 und 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35141",
+    "Titel": "Zuschlag vertiefte Exploration",
+    "Leistung": "Zuschlag zu der GOP 35140 für die vertiefte Exploration. Dauer mindestens 20 Minuten, je Sitzung.",
+    "Punkte": "257",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35173-35179. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35142",
+    "Titel": "Zuschlag neurologische/psychiatrische Befunde",
+    "Leistung": "Zuschlag zu der GOP 35140 für die Erhebung ergänzender neurologischer und psychiatrischer Befunde",
+    "Punkte": "75",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35173-35179. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35150",
+    "Titel": "Probatorische Sitzung",
+    "Leistung": "Probatorische Sitzung, Einzelbehandlung, Dauer mindestens 50 Minuten, je vollendete 50 Minuten.",
+    "Punkte": "709",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35151",
+    "Titel": "Psychotherapeutische Sprechstunde",
+    "Leistung": "Psychotherapeutische Sprechstunde gemäß § 11 der Psychotherapie-Richtlinie. Dauer mindestens 25 Minuten, je vollendete 25 Minuten.",
+    "Punkte": "472",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35571, 35572 und Abschnitte 35.2.1 und 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35152",
+    "Titel": "Psychotherapeutische Akutbehandlung",
+    "Leistung": "Psychotherapeutische Akutbehandlung gemäß § 13 der Psychotherapie-Richtlinie. Dauer mindestens 25 Minuten, je vollendete 25 Minuten.",
+    "Punkte": "472",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35571, 35572 und Abschnitte 35.2.1 und 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35163",
+    "Titel": "Probatorische Sitzung (3 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 3 Teilnehmer.",
+    "Punkte": "704",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35164",
+    "Titel": "Probatorische Sitzung (4 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 4 Teilnehmer.",
+    "Punkte": "594",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35165",
+    "Titel": "Probatorische Sitzung (5 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 5 Teilnehmer.",
+    "Punkte": "528",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35166",
+    "Titel": "Probatorische Sitzung (6 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 6 Teilnehmer.",
+    "Punkte": "483",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35167",
+    "Titel": "Probatorische Sitzung (7 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 7 Teilnehmer.",
+    "Punkte": "451",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35168",
+    "Titel": "Probatorische Sitzung (8 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 8 Teilnehmer.",
+    "Punkte": "428",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35169",
+    "Titel": "Probatorische Sitzung (9 TN)",
+    "Leistung": "Probatorische Sitzung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 9 Teilnehmer.",
+    "Punkte": "409",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35173",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (3 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 3 Teilnehmer.",
+    "Punkte": "935",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35174",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (4 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 4 Teilnehmer.",
+    "Punkte": "788",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35175",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (5 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 5 Teilnehmer.",
+    "Punkte": "700",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35176",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (6 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 6 Teilnehmer.",
+    "Punkte": "641",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35177",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (7 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 7 Teilnehmer.",
+    "Punkte": "598",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35178",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (8 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 8 Teilnehmer.",
+    "Punkte": "568",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35179",
+    "Titel": "Gruppenpsychotherapeutische Grundversorgung (9 TN)",
+    "Leistung": "Gruppenpsychotherapeutische Grundversorgung, Gruppenbehandlung, Dauer mindestens 100 Minuten, 9 Teilnehmer.",
+    "Punkte": "543",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., und Abschnitt 35.2.2. Im Behandlungsfall: 03040, 03220, 03221, 04040, 04220, 04221."
+  },
+  {
+    "Nummer": "35571",
+    "Titel": "Zuschlag zur GOP 30932 und Abschnitt 35.2.1",
+    "Leistung": "Wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet.",
+    "Punkte": "159",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35572",
+    "Titel": "Zuschlag zur GOP 30933, 35173-35179 und Abschnitt 35.2.2",
+    "Leistung": "Wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet.",
+    "Punkte": "66",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35573",
+    "Titel": "Zuschlag zu GOP 35151, 35152, 37500 und 37600",
+    "Leistung": "Wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet.",
+    "Punkte": "81",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35591",
+    "Titel": "Zuschlag Kurzzeittherapie (diverse)",
+    "Leistung": "Zuschlag zu den GOP 35401, 35402, 35411, 35412, 35421, 35422, 35431 und 35432, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "141",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35593",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 3 TN)",
+    "Leistung": "Zuschlag zu den GOP 35503, 35523, 35543 und 35703, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "140",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35594",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 4 TN)",
+    "Leistung": "Zuschlag zu den GOP 35504, 35524, 35544 und 35704, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "118",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35595",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 5 TN)",
+    "Leistung": "Zuschlag zu den GOP 35505, 35525, 35545 und 35705, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "105",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35596",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 6 TN)",
+    "Leistung": "Zuschlag zu den GOP 35506, 35526, 35546 und 35706, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "96",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35597",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 7 TN)",
+    "Leistung": "Zuschlag zu den GOP 35507, 35527, 35547 und 35707, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "90",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35598",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 8 TN)",
+    "Leistung": "Zuschlag zu den GOP 35508, 35528, 35548 und 35708, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "85",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35599",
+    "Titel": "Zuschlag Kurzzeittherapie (Gruppe 9 TN)",
+    "Leistung": "Zuschlag zu den GOP 35509, 35529, 35549 und 35709, höchstens 10-mal im Krankheitsfall",
+    "Punkte": "81",
+    "Anmerkung": "Ausschluss: 35163 bis 35169"
+  },
+  {
+    "Nummer": "35401",
+    "Titel": "TP Kurzzeittherapie 1 (Einzel)",
+    "Leistung": "Tiefenpsychologisch fundierte Psychotherapie, Kurzzeittherapie 1, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35402",
+    "Titel": "TP Kurzzeittherapie 2 (Einzel)",
+    "Leistung": "Tiefenpsychologisch fundierte Psychotherapie, Kurzzeittherapie 2, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35405",
+    "Titel": "TP Langzeittherapie (Einzel)",
+    "Leistung": "Tiefenpsychologisch fundierte Psychotherapie, Langzeittherapie, Einzelbehandlung, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35411",
+    "Titel": "Analytische Psychotherapie KZT 1 (Einzel)",
+    "Leistung": "Analytische Psychotherapie, Kurzzeittherapie 1, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35412",
+    "Titel": "Analytische Psychotherapie KZT 2 (Einzel)",
+    "Leistung": "Analytische Psychotherapie, Kurzzeittherapie 2, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35415",
+    "Titel": "Analytische Psychotherapie LZT (Einzel)",
+    "Leistung": "Analytische Psychotherapie, Langzeittherapie, Einzelbehandlung, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35421",
+    "Titel": "Verhaltenstherapie KZT 1 (Einzel)",
+    "Leistung": "Verhaltenstherapie, Kurzzeittherapie 1, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35422",
+    "Titel": "Verhaltenstherapie KZT 2 (Einzel)",
+    "Leistung": "Verhaltenstherapie, Kurzzeittherapie 2, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35425",
+    "Titel": "Verhaltenstherapie LZT (Einzel)",
+    "Leistung": "Verhaltenstherapie, Langzeittherapie, Einzelbehandlung, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35431",
+    "Titel": "Systemische Therapie KZT 1 (Einzel)",
+    "Leistung": "Systemische Therapie, Kurzzeittherapie 1, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35432",
+    "Titel": "Systemische Therapie KZT 2 (Einzel)",
+    "Leistung": "Systemische Therapie, Kurzzeittherapie 2, Einzelbehandlung, höchstens 12 Sitzungen, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35435",
+    "Titel": "Systemische Therapie LZT (Einzel)",
+    "Leistung": "Systemische Therapie, Langzeittherapie, Einzelbehandlung, je vollendete 50 Minuten.",
+    "Punkte": "941",
+    "Anmerkung": "Am Behandlungstag: 01205, ..., 35163-35169 , 35151, 35152. Im Behandlungsfall: 03040, ..., 04221."
+  },
+  {
+    "Nummer": "35600",
+    "Titel": "Standardisierte Testverfahren",
+    "Leistung": "Anwendung standardisierter Testverfahren (Fragebogentest und/oder Orientierender Test), Auswertung, schriftliche Aufzeichnung, Dauer mind. 5 Minuten, je vollendete 5 Minuten.",
+    "Punkte": "34",
+    "Anmerkung": "Am Behandlungstag: 01205, 01207, 01210, 01212, 01214, 01216, 01218. Im Behandlungsfall: 16371, 20371."
+  },
+  {
+    "Nummer": "35601",
+    "Titel": "Psychometrische Testverfahren",
+    "Leistung": "Anwendung psychometrischer Testverfahren (Funktionstest und/oder Entwicklungstest und/oder Intelligenztest), Auswertung, schriftliche Aufzeichnung, Dauer mind. 5 Minuten, je vollendete 5 Minuten.",
+    "Punkte": "39",
+    "Anmerkung": "Am Behandlungstag: 01205, 01207, 01210, 01212, 01214, 01216, 01218. Im Behandlungsfall: 16371, 20371."
+  },
+  {
+    "Nummer": "35602",
+    "Titel": "Projektive Verfahren",
+    "Leistung": "Anwendung projektiver Verfahren, Auswertung, schriftliche Aufzeichnung, Dauer mind. 5 Minuten, je vollendete 5 Minuten.",
+    "Punkte": "56",
+    "Anmerkung": "Am Behandlungstag: 01205, 01207, 01210, 01212, 01214, 01216, 01218. Im Behandlungsfall: 16371, 20371."
+  },
+
+   {
+    "Nummer": "40110",
+    "Titel": "Kostenpauschale für die Versendung bzw. den Transport eines Briefes und/oder von schriftlichen Unterlagen",
+    "Leistung": "Kostenpauschale für die Versendung bzw. den Transport eines Briefes und/oder von schriftlichen Unterlagen ",
+    "Punkte": "12",
+    "Anmerkung": "Höchstwert ab 1. Januar 2025: 0,96 Euro"
+  }
+]

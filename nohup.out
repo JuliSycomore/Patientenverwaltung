@@ -1,0 +1,681 @@
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Google Calendar API erfolgreich authentifiziert!
+Fordere neues ICD-11 Access Token an...
+Token erfolgreich erhalten.
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Fordere neues ICD-11 Access Token an...
+Token erfolgreich erhalten.
+Google Calendar API erfolgreich authentifiziert!
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Server läuft auf http://localhost:3001
+Um Kalender zu verbinden, rufen Sie im Browser auf: http://localhost:3001/auth/google
+Fehler beim Abrufen der Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:139:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen der Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:139:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen der Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:139:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen der Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:139:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fordere neues ICD-11 Access Token an...
+Token erfolgreich erhalten.
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Fehler beim Abrufen vergangener Kalender-Events: Error: No refresh token is set.
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:240:19)
+    at OAuth2Client.refreshToken (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:221:25)
+    at OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:28)
+    at OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:34)
+    at OAuth2Client.request (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:452:25)
+    at createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:42)
+    at createAPIRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:53:16)
+    at Resource$Events.list (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis/build/src/apis/calendar/v3.js:973:65)
+    at /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:176:44
+    at Layer.handleRequest (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/router/lib/layer.js:152:17)
+Google-Token erfolgreich aus Datei geladen.
+Server läuft auf http://localhost:3001
+Google-Token erfolgreich aus Datei geladen.
+Server läuft auf http://localhost:3001
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token erfolgreich aus Datei geladen.
+Server läuft auf http://localhost:3001
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token erfolgreich aus Datei geladen.
+Server läuft auf http://localhost:3001
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Fehler beim Abrufen der Kalender-Events: invalid_grant
+Fehler beim Abrufen vergangener Kalender-Events: invalid_grant
+Fehler beim Abrufen der Kalender-Events: invalid_grant
+Fehler beim Abrufen vergangener Kalender-Events: invalid_grant
+Neuen Refresh-Token erhalten.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Neuen Refresh-Token erhalten.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Neuen Refresh-Token erhalten.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Google-Token in Datei aktualisiert.
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:171:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
+Konnte erneuerten Google-Token nicht speichern: Error: ENOENT: no such file or directory, open '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+    at Object.writeFileSync (node:fs:2426:20)
+    at OAuth2Client.<anonymous> (/Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:103:8)
+    at OAuth2Client.emit (node:events:518:28)
+    at OAuth2Client.refreshTokenNoCache (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:276:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.getRequestMetadataAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:372:17)
+    at async OAuth2Client.requestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/google-auth-library/build/src/auth/oauth2client.js:457:23)
+    at async createAPIRequestAsync (/Users/julianrogowski/Desktop/patientenverwaltung-app/node_modules/googleapis-common/build/src/apirequest.js:308:25)
+    at async /Users/julianrogowski/Desktop/patientenverwaltung-app/server.js:203:22 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/julianrogowski/Desktop/patientenverwaltung-app/google-token.json'
+}
